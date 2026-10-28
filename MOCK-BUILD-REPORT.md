@@ -91,3 +91,8 @@ Future buckets (not orderable):
 - All 81 cells desaturated to grey/black, neon stripped, in images/dark-mute/: 81 dark JPGs, 81 dark transparent PNGs, plus 9 dark grid JPGs. The 4 approved sample JPGs were kept as-is.
 - Pages updated: index.html, shop.html, designs.html, about.html, contact.html, style.css (muted grey/black, neon glow removed, line tabs and tap-to-preview kept), dark-preview.html.
 - Still mockup only: no real sales, no Stripe, no supplier, prices TBD, KFC-flagged cells grid18/grid19 cell 8 must not be sold as KFC merch, brand name still to confirm.
+
+## Identity clarification Oct 28, 2026 17:33 ET
+- Frank Castle is dad's alias only, actual name Bret. Not a separate store owner, not Damon.
+- Dad / Frank likes the newer dark muted shop a lot better than the neon version.
+- Brand name / person-vs-brand use still to be double-checked and verified with dad when he gets up later. Do NOT rename the store to Bret, and do NOT message dad / Frank about the store, until Crishtian confirms after that check.
