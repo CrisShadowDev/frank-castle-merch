@@ -14,3 +14,11 @@ button{background:var(--neon2);border:0;padding:10px 14px;border-radius:8px;font
 .notice{background:#2a1a00;border:2px solid #ffb300;padding:14px;border-radius:10px;margin:16px 0}
 a{color:var(--neon2)}
 label{display:block;margin:10px 0}input,textarea,select{width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#111;color:#fff}
+
+.mock-tee{background:#000;border:2px solid #fff;padding:20px;text-align:center}
+.mock-tee img{max-width:280px}
+.mock-sticker{background:#fff;border-radius:50%;padding:18px;display:inline-block}
+.mock-sticker img{max-width:220px}
+.mock-mug{background:#111;border:3px solid #888;border-radius:12px;padding:20px;text-align:center}
+.mock-mug img{max-width:260px}
+.design-grid img{width:100%}
