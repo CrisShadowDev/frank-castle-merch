@@ -1,0 +1,14 @@
+{
+  "mockup_only": true,
+  "brand": "Frank Castle Brand - TO CONFIRM",
+  "products": [
+    {"id":"tee-neon","name":"Neon Swirl Tee","type":"t-shirt","price":"TBD / PLACEHOLDER","image":"images/tee-neon.svg","status":"placeholder"},
+    {"id":"tee-grid","name":"Grid Poster Tee","type":"t-shirt","price":"TBD / PLACEHOLDER","image":"images/tee-grid.svg","status":"placeholder"},
+    {"id":"sticker-pack","name":"Neon Sticker Pack","type":"stickers","price":"TBD / PLACEHOLDER","image":"images/sticker-pack.svg","status":"placeholder"},
+    {"id":"sticker-single","name":"Neon Sticker - Single","type":"stickers","price":"TBD / PLACEHOLDER","image":"images/sticker-single.svg","status":"placeholder"},
+    {"id":"mug-neon","name":"Neon Coffee Mug","type":"coffee mug","price":"TBD / PLACEHOLDER","image":"images/mug-neon.svg","status":"placeholder"},
+    {"id":"mug-grid","name":"Grid Coffee Mug","type":"coffee mug","price":"TBD / PLACEHOLDER","image":"images/mug-grid.svg","status":"placeholder"},
+    {"id":"popcorn-bucket","name":"Popcorn Bucket","type":"bucket - FUTURE","price":"TBD / PLACEHOLDER","image":"images/popcorn-bucket.svg","status":"future - supplier not confirmed"},
+    {"id":"chicken-bucket","name":"Chicken Bucket","type":"bucket - FUTURE","price":"TBD / PLACEHOLDER","image":"images/chicken-bucket.svg","status":"future - supplier not confirmed"}
+  ]
+}
