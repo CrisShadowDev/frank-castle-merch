@@ -72,3 +72,22 @@ Future buckets (not orderable):
 6. Stripe owner choice, with explicit approval, if ever live
 7. Domain decision, none bought
 8. Crishtian manages site/merch, Frank posts - no income amount claimed, no business details invented
+
+## Oct 28 update — line tabs, phone tap preview, subtle neon glow
+- KFC: Crishtian does NOT own a KFC yet. A franchise one day is a dream only, not ownership, not a claim. KFC cells grid18 cell 8 / grid19 cell 8 remain flagged, renamed in shop as Future Only / Trademark Flagged, do NOT sell as KFC merch.
+- Line tabs added: All lines / T-Shirts / Stickers / Coffee Mugs / Future Buckets / All Designs. On Shop they filter in place (and shop.html#line-tees etc. pre-filters); on Home/Designs/About/Contact they link to the Shop line. No products, cells, or prices changed — all prices remain TBD / PLACEHOLDER.
+- Floating preview: phone-first. Tap a main card, or its 'Tap to preview larger' button, opens a full-screen floating preview with the design larger, Close button, tap-outside to close, Escape to close. This works on phone because it is tap/click, not hover-only. Desktop hover also shows a small floating enlarged view near the cursor (fine-pointer only); hover is disabled as the only path on touch devices.
+- Neon glow: subtle only — low-opacity radial gradients behind the page, a soft glow box around the hero (box-shadow ~18-28px, pink/cyan at 0.14-0.22 opacity), and soft card glow. Not blinding, no animation.
+- Not feasible / not claimed: true mouse hover cannot work on a phone (no cursor), so phone uses tap-to-preview instead — same larger view, different trigger. No Vercel live URL, no Pages live claim. Workspace files are the viewable version.
+- Files changed: style.css, app.js, index.html, shop.html, designs.html, about.html, contact.html. No sales, no Stripe, no supplier, no KFC branding added.
+
+## Dark mute sample - approved direction Oct 28, 2026 17:26 ET
+- 4 cells desaturated to muted grey/black, neon stripped, from Crishtian's own cells only, no new art generated: grid11-cell1, grid12-cell2, grid11-cell4, grid15-cell2 in images/dark-mute/, preview dark-preview.html.
+- Crishtian: "The styles perfect" Oct 28 17:26 ET.
+- NOT yet rebuilt: full shop rebuild in dark mute, and GitHub Pages push, are still pending his go. Live Pages is still neon until that rebuild/push is approved and verified.
+
+## Dark muted rebuild - Oct 28, 2026, pushed to Pages
+- Full shop rebuilt in dark muted style, approved by Crishtian Oct 28 17:26 ET, rebuild approved 17:27 ET.
+- All 81 cells desaturated to grey/black, neon stripped, in images/dark-mute/: 81 dark JPGs, 81 dark transparent PNGs, plus 9 dark grid JPGs. The 4 approved sample JPGs were kept as-is.
+- Pages updated: index.html, shop.html, designs.html, about.html, contact.html, style.css (muted grey/black, neon glow removed, line tabs and tap-to-preview kept), dark-preview.html.
+- Still mockup only: no real sales, no Stripe, no supplier, prices TBD, KFC-flagged cells grid18/grid19 cell 8 must not be sold as KFC merch, brand name still to confirm.
