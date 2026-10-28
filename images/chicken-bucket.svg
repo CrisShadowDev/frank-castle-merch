@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<defs><radialGradient id="g" cx="50%" cy="50%"><stop offset="0%" stop-color="#ff2bd6"/><stop offset="100%" stop-color="#00f0ff"/></radialGradient></defs>
+<rect width="600" height="600" fill="#050510"/>
+<circle cx="300" cy="280" r="200" fill="url(#g)" opacity="0.9"/>
+<path d="M60 300 Q180 120 300 300 T540 300" stroke="#00f0ff" stroke-width="18" fill="none"/>
+<path d="M60 360 Q180 200 300 360 T540 360" stroke="#ff2bd6" stroke-width="14" fill="none"/>
+<text x="300" y="520" text-anchor="middle" font-family="Arial" font-size="28" fill="white">CHICKEN BUCKET - FUTURE</text>
+<text x="300" y="560" text-anchor="middle" font-family="Arial" font-size="20" fill="#ffff00">PLACEHOLDER - NOT FINAL ART</text>
+</svg>
